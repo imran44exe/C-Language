@@ -1,6 +1,6 @@
 // Write a programme to calculate b^2-4ac and print the result.
 #include<stdio.h>
-void main()
+void main(void)
 {
     float a,b,c,d;
     printf("\n Enter Value of a , b & c = ");
