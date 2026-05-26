@@ -6,7 +6,7 @@ struct student
              int roll;
              float fee;   
             };
-void main()
+void main(void)
         {
             struct student s1;
             printf("\nEnter Student Details :- \n");
